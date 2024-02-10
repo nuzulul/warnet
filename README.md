@@ -1,2 +1,2 @@
 # warnet
-world above rtc network
+WarNet - Decentralized peer-to-peer web network

@@ -1,0 +1,32 @@
+{
+  "name": "warnet",
+  "version": "0.0.1",
+  "description": "world above rtc network",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuzulul/warnet.git"
+  },
+  "keywords": [
+    "p2p",
+    "peer-to-peer",
+    "distributed",
+    "decentralized",
+    "webrtc",
+    "warnet",
+    "dweb"
+  ],
+  "author": "Nuzulul Zulkarnain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nuzulul/warnet/issues"
+  },
+  "homepage": "https://github.com/nuzulul/warnet#readme",
+  "dependencies": {
+    "kv-storage": "^0.0.9",
+    "webconnect": "^0.0.3"
+  }
+}
